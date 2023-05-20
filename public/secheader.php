@@ -67,7 +67,7 @@
 				<!-- 手机端头部 -->
 				<div id="header-container-m">
 					<div class="clear">
-						<a href="https://blog.nonly.cn/">
+						<a href="<?php $this->options->siteUrl(); ?>">
 							<img src="<?php $this->options->logoCss(); ?>" class="left">
 							</img>
 						</a>
