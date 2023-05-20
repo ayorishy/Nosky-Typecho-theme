@@ -6,6 +6,8 @@ Typecho 极简风格响应式主题，一款简单的主题。 Typecho Minimalis
 
 请给我一个star支持我！
 
+请务必开启伪静态！！！
+
 这是我的第一个typecho主题，所以有很多东西都有问题。可能有些东西都需要自己在后台设置。
 所以这算一个半成品，有很多BUG。如果你发现任何bug请在https://github.com/Inon1y/Nosky-Typecho-theme/issues 发布一个issues！
 
