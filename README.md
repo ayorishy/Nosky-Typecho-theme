@@ -9,6 +9,12 @@ Typecho 极简风格响应式主题，一款简单的主题。 Typecho Minimalis
 这是我的第一个typecho主题，所以有很多东西都有问题。可能有些东西都需要自己在后台设置。
 所以这算一个半成品，有很多BUG。如果你发现任何bug请在https://github.com/Inon1y/Nosky-Typecho-theme/issues 发布一个issues！
 
+# 截图展示
+![image](https://github.com/Inon1y/Nosky-Typecho-theme/assets/91359128/4365a815-29c3-4ffa-a186-c72dc5143d91)
+![image](https://github.com/Inon1y/Nosky-Typecho-theme/assets/91359128/dd0e0f51-c5dc-4a21-ae83-7e1c3ac1581f)
+
+
+
 # how to used? 如何使用
 将主题文件夹名字修改为：[nosky] 
 然后进入网站后台，请按以下截图依次设置：
