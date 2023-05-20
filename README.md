@@ -2,7 +2,7 @@
 Typecho 极简风格响应式主题，一款简单的主题。 Typecho Minimalist Responsive Theme, a simple theme.
 
 Demo：http://111.230.25.50/
-该主题暂未完成，暂不发布。
+等bug修复好后我会将主题发布出来。
 (一个学生党的CTRL+C+V捣鼓出来的博客主题)
 
 截图展示(showtime!!!)：
