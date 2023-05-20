@@ -18,19 +18,28 @@
 		</div>
 
 		<div class="link-item">
-			<img src="https://jipa.uk/static/avatar.jpg" />
-			<h3>JIPA233の小窝</h3>
-			<span>契约将众生分为低等和高等</span>
-			<a href="https://jipa.uk" target="_blank">
+			<img src="网站头像" />
+			<h3>网站名字</h3>
+			<span>网站描述</span>
+			<a href="网站链接" target="_blank">
 				<i class="fa fa-lg fa-link"></i>
 			</a>
 		</div>
 		
 		<div class="link-item">
-			<img src="https://q1.qlogo.cn/g?b=qq&nk=2332528030&s=640" />
-			<h3>光芒万丈</h3>
-			<span>一个医务工作者的碎碎念</span>
-			<a href="https://www.cunzher.cn" target="_blank">
+			<img src="网站头像" />
+			<h3>网站名字</h3>
+			<span>网站描述</span>
+			<a href="网站链接" target="_blank">
+				<i class="fa fa-lg fa-link"></i>
+			</a>
+		</div>
+		
+		<div class="link-item">
+			<img src="网站头像" />
+			<h3>网站名字</h3>
+			<span>网站描述</span>
+			<a href="网站链接" target="_blank">
 				<i class="fa fa-lg fa-link"></i>
 			</a>
 		</div>
