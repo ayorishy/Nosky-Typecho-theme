@@ -15,7 +15,7 @@ Typecho 极简风格响应式主题，一款简单的主题。 Typecho Minimalis
 
 
 
-# how to used? 如何使用
+# how to use? 如何使用
 将主题文件夹名字修改为：[nosky] 
 然后进入网站后台，请按以下截图依次设置：
 
