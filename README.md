@@ -1,7 +1,7 @@
 # Nosky-Typecho-theme
 Typecho 极简风格响应式主题，一款简单的主题。 Typecho Minimalist Responsive Theme, a simple theme.
 
-在线Demo：http://154.40.45.120
+在线Demo：http://111.230.25.50/
 下载地址：https://github.com/Inon1y/Nosky-Typecho-theme/releases/tag/typecho
 
 请给我一个star支持我！
