@@ -1,4 +1,8 @@
 # Nosky-Typecho-theme
+项目没有Issues将可能不再进行更新，目前已转移 [ISLANDO](https://github.com/Inon1y/typecho-ISLAND-theme) 项目进行二次开发并进行长期维护 (本人目前在用)
+
+
+
 Typecho 极简风格响应式主题，一款简单的主题。 Typecho Minimalist Responsive Theme, a simple theme.
 
 在线Demo：http://111.230.25.50/
